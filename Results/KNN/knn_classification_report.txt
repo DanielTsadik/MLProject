@@ -1,0 +1,9 @@
+Best K = 5
+              precision    recall  f1-score   support
+
+     RealArt       0.56      0.59      0.57        87
+   AiArtData       0.57      0.54      0.55        87
+
+    accuracy                           0.56       174
+   macro avg       0.56      0.56      0.56       174
+weighted avg       0.56      0.56      0.56       174
